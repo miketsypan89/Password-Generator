@@ -1,2 +1,2 @@
 # Password-Generator
-Testing Readme file text for the initial commit 
+Checking to see if this will overwrite what i currently have in the readme file..
