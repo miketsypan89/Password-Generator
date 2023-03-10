@@ -1,2 +1,2 @@
 # Password-Generator
-Checking to see if this will overwrite what i currently have in the readme file.
+This is Not finished yet, but I'm excited to get back to take it to its completion.
