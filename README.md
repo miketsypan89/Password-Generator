@@ -1,7 +1,12 @@
 # Password-Generator
 
+This site is live at https://miketsypan89.github.io/Password-Generator/
+
+Here's what you can expect:
 - A powerful tool to quickly generate a complex password of any length between 8 and 128 characters.
-- You will have the flexibility to edit what characters to use and which to omit.
+- The flexibility to edit what characters to use and which to omit, is at your fingertips!
+
+Enjoy!
 
 See screenshots below for examples of the user-friendly UI:
 
